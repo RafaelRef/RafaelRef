@@ -74,10 +74,7 @@ Research on AI-based automatic detection of chromosomal abnormalities to assist 
 
 ## Projects
 
-**ProvaPool** *(in development)*  
-Mobile app for Brazilian university students to collaboratively share past exams, exercise lists, and summaries.
-
-`Expo` `TypeScript` `Supabase` `React Native` `Zustand`
+-
 
 ---
 
