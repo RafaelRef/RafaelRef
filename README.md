@@ -30,10 +30,7 @@ Pesquisa em detecção automática baseada em inteligência artificial de anomal
 
 ## Projetos
 
-**ProvaPool** *(em desenvolvimento)*  
-Aplicativo mobile para estudantes universitários brasileiros compartilharem provas antigas, listas de exercícios e resumos de forma colaborativa.
-
-`Expo` `TypeScript` `Supabase` `React Native` `Zustand`
+-
 
 ---
 
